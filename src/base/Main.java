@@ -8,5 +8,4 @@ public class Main {
         Zoopark zoopark=Zoopark.getInstance();
         zoopark.work();
     }
-    //COMMIT rebase 2
 }
