@@ -36,7 +36,7 @@ public class Zoopark {
         return zoopark;
     }
 
-    //commit test 1
+    //finAL commit
 
     public void work() {
         for (int i = 0; i < COUNT_OF_AVIARY; i++) {
