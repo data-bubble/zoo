@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="d43f23c69e33247a737c60f5dfa1120db07aa345" />
+        <entry key="$PROJECT_DIR$" value="982b9c2f89606b15a8738cf5c1bf59a9019662f5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,6 +48,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -117,12 +118,12 @@
             <list>
               <RecentGroup>
                 <option name="FILTER_VALUES">
-                  <option value="master" />
+                  <option value="origin/master" />
                 </option>
               </RecentGroup>
               <RecentGroup>
                 <option name="FILTER_VALUES">
-                  <option value="origin/master" />
+                  <option value="master" />
                 </option>
               </RecentGroup>
               <RecentGroup>
@@ -147,10 +148,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1587824908821" />
-    <state x="463" y="147" key="CommitChangelistDialog2" timestamp="1592744008913">
+    <state x="463" y="147" key="CommitChangelistDialog2" timestamp="1592748568100">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="463" y="147" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1592744008913" />
+    <state x="463" y="147" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1592748568100" />
     <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1587837503834">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -167,6 +168,14 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587837503834" />
+    <state x="642" y="273" key="RollbackChangesDialog" timestamp="1592745453300">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="642" y="273" key="RollbackChangesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1592745453300" />
+    <state x="539" y="343" key="git4idea.merge.GitPullDialog" timestamp="1592745338126">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="539" y="343" key="git4idea.merge.GitPullDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1592745338126" />
     <state x="592" y="280" key="git4idea.rebase.GitRebaseEditor" timestamp="1592744084916">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>

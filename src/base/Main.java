@@ -8,4 +8,5 @@ public class Main {
         Zoopark zoopark=Zoopark.getInstance();
         zoopark.work();
     }
+    //fin
 }
