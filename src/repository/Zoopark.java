@@ -36,6 +36,8 @@ public class Zoopark {
         return zoopark;
     }
 
+    //finAL commit
+
     public void work() {
         for (int i = 0; i < COUNT_OF_AVIARY; i++) {
             if (i < COUNT_OF_AVIARY / 2)
